@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.change_vision.astah.extension.plugin</groupId>
 	<artifactId>astah-api-util</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<properties>
 		<astah.version>6.7</astah.version>
 	</properties>
